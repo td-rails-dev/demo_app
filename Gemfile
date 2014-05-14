@@ -11,6 +11,8 @@ group :development do
 	gem 'sqlite3'
 end
 
+gem 'protected_attributes'
+
 group :assets do
 
 	# Use SCSS for stylesheets
